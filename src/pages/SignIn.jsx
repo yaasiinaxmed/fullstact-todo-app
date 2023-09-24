@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 //images
-import GoogleIcon from '../assets/Google__G__logo.png'
+import GoogleIcon from '../assets/Google__G__Logo.png'
 
 // hooks
 import { useFirebase } from "../context/firebase";
