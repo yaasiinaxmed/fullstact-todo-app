@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { BiLogOut } from "react-icons/bi";
 import { useFirebase } from "../context/firebase";
-import AddTodo from "../Components/addTodo";
+import AddTodo from "../Components/AddTodo";
 import Todo from "../Components/Todo";
 
 import vector from "../assets/vector.jpg";
